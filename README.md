@@ -57,19 +57,16 @@
 - 🤝 Open Source Best Practices
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=krisha-3&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisha-3&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=krisha-3&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=krisha-3&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
-
+-->
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -101,8 +98,6 @@
 </p>
 
 ---
-
-## 👀 Profile Views
 
 <p align="center">
 
