@@ -1,4 +1,7 @@
 ## Hi there 👋
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krisha-3" alt="mayankyadav1711" />
+</p>
 
 <!--
 **krisha-3/krisha-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
